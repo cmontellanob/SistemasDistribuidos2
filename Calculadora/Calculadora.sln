@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{0C6ED4CD-6B5D-4692-BCD7-629A386A87EA}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{63624FCD-4403-47E2-80D2-A98EF8992940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6ED4CD-6B5D-4692-BCD7-629A386A87EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6ED4CD-6B5D-4692-BCD7-629A386A87EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6ED4CD-6B5D-4692-BCD7-629A386A87EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6ED4CD-6B5D-4692-BCD7-629A386A87EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63624FCD-4403-47E2-80D2-A98EF8992940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63624FCD-4403-47E2-80D2-A98EF8992940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63624FCD-4403-47E2-80D2-A98EF8992940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63624FCD-4403-47E2-80D2-A98EF8992940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E1D641-83C0-48D4-B826-6FF9BA84FCFC}
+	EndGlobalSection
+EndGlobal

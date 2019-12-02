@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  calculadora:
+    image: ${DOCKER_REGISTRY}calculadora
+    build:
+      context: .\Calculadora
+      dockerfile: Dockerfile

@@ -1,0 +1,10 @@
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\bin\Debug\Sumas.exe.config
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\bin\Debug\Sumas.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\bin\Debug\Sumas.pdb
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.csprojAssemblyReference.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.Form1.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.Properties.Resources.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.csproj.GenerateResource.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.csproj.CoreCompileInputs.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\Sumas\Sumas\obj\Debug\Sumas.pdb

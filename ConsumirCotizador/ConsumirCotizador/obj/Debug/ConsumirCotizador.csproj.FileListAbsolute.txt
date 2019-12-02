@@ -1,0 +1,10 @@
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\bin\Debug\ConsumirCotizador.exe.config
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\bin\Debug\ConsumirCotizador.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\bin\Debug\ConsumirCotizador.pdb
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.csprojAssemblyReference.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.Form1.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.Properties.Resources.resources
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.csproj.GenerateResource.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.csproj.CoreCompileInputs.cache
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.exe
+D:\usfx\SIS-258 Sistemas Distribuidos\2-2019\SistemasDistribuidos2\ConsumirCotizador\ConsumirCotizador\obj\Debug\ConsumirCotizador.pdb
